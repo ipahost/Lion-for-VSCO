@@ -10,7 +10,7 @@ A powerful tweak for VSCO!
    
     | Application | Version | Lion |
     | --- | --- | --- |
-    | [VSCO](https://mega.nz/file/1BhnnSTS#btUo7xJXgd7fOQRwHekf8jMaaJyDA-BSMHX7qEMC6pA) | 191.1 | 1.2 |
+    | [VSCO](https://mega.nz/file/pIY1xYLb#jpT1HmxtWpS7YGcTQEsDNdR7kgazWj9rx3Xr8FWFmuw) | 196.1 | 1.3 |
 
         
 &nbsp;
