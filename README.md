@@ -10,7 +10,7 @@ A powerful tweak for VSCO!
    
     | Application | Version | Lion |
     | --- | --- | --- |
-    | [VSCO](https://mega.nz/file/pIY1xYLb#jpT1HmxtWpS7YGcTQEsDNdR7kgazWj9rx3Xr8FWFmuw) | 196.1 | 1.3 |
+    | [VSCO](https://mega.nz/file/AEokiLTI#r9J1R2ahvuv_auFzmRXHaH96o49XB20OWGdzWxNVB-I) | 211.0 | 1.4 |
 
         
 &nbsp;
@@ -39,6 +39,3 @@ A powerful tweak for VSCO!
 
 ***Please note that push notifications may not work***
 
-
-### TODO 
-A more thorough guide is needed!  
